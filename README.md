@@ -57,7 +57,3 @@ Application web de suivi de statistiques et d'historique de parties pour Valoran
 
 ---
 
-## 🌐 Hébergement Gratuit (Render.com)
-
-Pour héberger ce site gratuitement et le partager avec vos amis :
-Consultez le guide complet dans le fichier **[TUTORIEL_HEBERGEMENT.md](TUTORIEL_HEBERGEMENT.md)** !
